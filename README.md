@@ -7,8 +7,8 @@ nearby icons to create a fluid magnification effect.
 Customize the magnification amount and range in the settings.
 
 Only Windows 11 is supported.
+Tested on Version 24H2 (OS Build 26100.4652)
 
 # Demo Video
-
 https://github.com/user-attachments/assets/d9ee093e-be87-48d4-a1e7-b092306f3385
 
