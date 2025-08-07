@@ -10,4 +10,4 @@ Only Windows 11 is supported.
 Tested on Version 24H2 (OS Build 26100.4652)
 
 # Demo Video
-https://github.com/Beej126/windhawk-win11-taskbar-icon-zoom/raw/refs/heads/main/demo.mp4
+https://github.com/user-attachments/assets/ee1eaa1d-d061-4f5b-91f5-503d1176d082
